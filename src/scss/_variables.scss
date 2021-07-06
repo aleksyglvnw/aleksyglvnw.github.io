@@ -1,0 +1,56 @@
+// Global colors
+$color-white: #fff;
+$color-black: #050505;
+$color-green: #33b256;
+$color-green-dark: #5d7c4c;
+$color-blue: #4989c8;
+$color-purple: #98719e;
+$color-orange: #cc7832;
+$color-yellow: #c7b869;
+$color-grey-lighter: #bbb;
+$color-grey-light: #4e5254;
+$color-grey: #3c3f41;
+$color-grey-dark: #313335;
+$color-grey-darker: #232525;
+
+// Component colors
+$color-body-bg: $color-black;
+
+$color-header-h1: $color-white;
+$color-header-p: $color-grey-lighter;
+$color-header-carret: $color-white;
+
+$color-fe-border: $color-grey-light;
+$color-fe-bg: $color-grey-darker;
+$color-fe-shadow: rgba(0, 0, 0, .6);
+
+$color-fe-nav-bg: $color-grey;
+$color-fe-nav-active-bg: $color-grey-light;
+$color-fe-nav-hover-bg: $color-grey-darker;
+$color-fe-nav-text: $color-grey-lighter;
+$color-fe-nav-underline: $color-blue;
+
+$color-fe-scroll-track: $color-grey-dark;
+$color-fe-scroll-thumb: $color-grey-light;
+$color-fe-scroll-hover: $color-grey-light;
+
+$color-fe-selection: #8a8a8a;
+
+$color-fe-line-number-bg: $color-grey-dark;
+$color-fe-line-number: #636363;
+
+$color-fe-text: $color-orange;
+$color-fe-text-operator: $color-grey-lighter;
+$color-fe-text-comment: $color-grey-light;
+$color-fe-text-namespace: $color-grey-lighter;
+$color-fe-text-class: $color-grey-lighter;
+$color-fe-text-function: $color-yellow;
+$color-fe-text-variable: $color-purple;
+$color-fe-text-string: $color-green-dark;
+
+$color-fe-input: $color-green-dark;
+$color-fe-button: $color-green;
+$color-fe-button-hover: $color-grey-dark;
+
+$color-fe-footer-text: $color-grey-lighter;
+$color-fe-footer-bg: $color-grey;
